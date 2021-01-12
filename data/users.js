@@ -1,0 +1,1 @@
+module.exports = [{"id":1,"name":"Victor Torres","email":"victorcdc96@gmail.com","password":"$2b$10$wzScIVplfJTA5HAP/vdNj.UufCCgWwx5VAMHC0jLhJspIFA9Nfe3K"},{"id":2,"name":"Marcio Cavalcante","email":"marcio.cavalcante@skyone.solutions","password":"$2b$10$.fIPxHoI9JcBDlAWIK4DjeIZ7TY75PPL9/YHtDolCb6fAWiYIVWeC"}]
